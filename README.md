@@ -1,6 +1,9 @@
 # DragonFruit
 Dragon Fruit, sponsored by PCBWay, a heavily modifed from AriaMelon's column staggered Honey Dew, powered by integrated RP2040 and Kiwano VIK module.
 
+![PCBWay](https://github.com/protieusz/DragonFruit/assets/118025702/c41f5eb2-1fd3-4f8a-9159-31855fbcfc03)
+
+
 No PCB yet.
 
 ![IMG_0180](https://github.com/protieusz/DragonFruit/assets/118025702/b944affd-a064-4418-bfdc-413b9a10dbe0)
