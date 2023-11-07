@@ -8,7 +8,7 @@ Best of all, all 5 PCBs assembled are all working and top notch soldering.  Thei
 
 PCB print plus assembly has been tested and working correctly.  However please print at your own risk and no support will be given.  As for the Kiwano module, please go to AriaMelon's GITHUB to get the pcb printed and assembled.  The trackball 3DP files are all located in her GITHUB.
 
-Only the gerber files of the DragonFruit will be uploaded to this GitHub. THe PCB design was donw in EasyEDA so converting to KiCad pcb file format is a pain.  Case step file will also be uploaded and the pcb anchors for the case needs a 1mm offset since I forgot to adjust it so in order to fix it, I had to melt some of the plastic off in order to be able to slide the pcb into the case. I will not update the case file anymore. Please do so at your own risk. No support will be given.
+Only the gerber files of the DragonFruit will be uploaded to this GitHub. THe PCB design was done in EasyEDA so converting to KiCad pcb file format is a pain.  Case step file will also be uploaded and the pcb anchors for the case needs a 1mm offset since I forgot to adjust it so in order to fix it, I had to melt some of the plastic off in order to be able to slide the pcb into the case. I will not update the case file anymore. Please do so at your own risk. No support will be given.
 
 QMK code is borrowed from Aki27's [Bally](https://github.com/aki27kbd/vial-qmk/tree/vial/keyboards/aki27/bally) is working very smoothly.  I also uploaded my compiled QMK firmware. Trackball QMK code requires the QMK version above 0.19 in order to successful compiled. No support will be given for the code. Please ask the original designer/owner for support since I only copied and pasted the QMK code.
 
