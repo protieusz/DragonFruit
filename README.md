@@ -7,9 +7,12 @@ Your one stop solution for PCB printing / PCBA service.  Top notch customer serv
 Best of all, all 5 PCBs assembled are all working and top notch soldering.  Their red silkscreen really pops out and matched with their yellow font silkscreen looks really nice. Thank you PCBWay!
 
 PCB print plus assembly has been tested and working correctly.  However please print at your own risk and no support will be given.  As for the Kiwano module, please go to AriaMelon's GITHUB to get the pcb printed and assembled.  The trackball 3DP files are all located in her GITHUB.  You would need the [specific](https://github.com/Ariamelon/Kiwano/tree/main/3DP) ones for this build and they are:
--Trackball Mount Low Profile.step
--Knob Ribbed.step
--Knob Base.step
+
+| Trackball 3DP Parts              | 
+| ---------------------------------| 
+| Trackball Mount Low Profile.step |                           
+| Knob Ribbed.step                 |                      
+| Knob Base.step                   |                                          
 
 Only the gerber files of the DragonFruit will be uploaded to this GitHub. THe PCB design was done in EasyEDA so converting to KiCad pcb file format is a pain.  Case step file will also be uploaded and the pcb anchors for the case needs a 1mm offset since I forgot to adjust it so in order to fix it, I had to melt some of the plastic off in order to be able to slide the pcb into the case. I will not update the case file anymore. Please do so at your own risk. No support will be given.
 
