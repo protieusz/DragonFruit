@@ -3,6 +3,17 @@ Dragon Fruit, sponsored by PCBWay, a heavily modifed from AriaMelon's column sta
 
 ![PCBWay](https://github.com/protieusz/DragonFruit/assets/118025702/c41f5eb2-1fd3-4f8a-9159-31855fbcfc03)
 
+Update: Nov 7, 2023. Final Product.
+
+![IMG_0301](https://github.com/protieusz/DragonFruit/assets/118025702/1bbba0b1-df73-4067-8b93-f1636ab4fe97)
+![IMG_0300](https://github.com/protieusz/DragonFruit/assets/118025702/513c643b-0166-4be9-9b51-d72a6865a979)
+![IMG_0296](https://github.com/protieusz/DragonFruit/assets/118025702/279e61cd-fd22-428c-8a89-4d50f84bfa61)
+![IMG_0295](https://github.com/protieusz/DragonFruit/assets/118025702/9b560cd7-954a-4229-a3a8-db8389f728a0)
+![85B45748A8880E51D3D014F1AD25B3F6](https://github.com/protieusz/DragonFruit/assets/118025702/7c458fe6-e884-476a-9ae6-611672b9473e)
+
+
+
+
 
 No PCB yet.
 
