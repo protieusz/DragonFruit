@@ -1,5 +1,5 @@
 # DragonFruit
-Dragon Fruit, sponsored by PCBWay, a heavily modifed from AriaMelon's column staggered Honey Dew, powered by integrated RP2040 and Ariamelon's Kiwano VIK module.
+Dragon Fruit, sponsored by [PCBWay](https://www.pcbway.com), a heavily modifed from AriaMelon's column staggered [Honey Dew](https://github.com/Ariamelon/Honeydew) powered by integrated RP2040 and Ariamelon's [Kiwano](https://github.com/Ariamelon/Kiwano) module.
 
 This project is sponsored and made possible by:
 ![PCBWay](https://github.com/protieusz/DragonFruit/assets/118025702/c41f5eb2-1fd3-4f8a-9159-31855fbcfc03)
@@ -8,7 +8,7 @@ Best of all, all 5 PCBs assembled are all working and top notch soldering.  Thei
 
 PCB print plus assembly has been tested and working correctly.  However please print at your own risk and no support will be given.  As for the Kiwano module, please go to AriaMelon's GITHUB to get the pcb printed and assembled.  The trackball 3DP files are all located in her GITHUB.
 
-QMK code is borrowed from Aki27's Bally and is working very smoothly.  I also uploaded my compiled QMK firmware. Trackball QMK code requires the QMK version above 0.19 in order to successful compiled. No support will be given for the code. Please ask the original designer/owner for support since I only copied and pasted the QMK code.
+QMK code is borrowed from Aki27's [Bally](https://github.com/aki27kbd/vial-qmk/tree/vial/keyboards/aki27/bally) is working very smoothly.  I also uploaded my compiled QMK firmware. Trackball QMK code requires the QMK version above 0.19 in order to successful compiled. No support will be given for the code. Please ask the original designer/owner for support since I only copied and pasted the QMK code.
 
 Update: Nov 7, 2023. Final Product.
 
