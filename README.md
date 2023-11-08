@@ -6,7 +6,7 @@ This project is sponsored and made possible by:
 Your one stop solution for PCB printing / PCBA service.  Top notch customer service. Their sales department are able to do a quick test after PCBA by plugging into the PC to see if the RP2040 storage containers popped up.
 Best of all, all 5 PCBs assembled are all working and top notch soldering.  Their red silkscreen really pops out and matched with their yellow font silkscreen looks really nice. Thank you PCBWay!
 
-This DragonFruit keyboard is VIK certified as per Sadek of Fingerpunch's [VIK standard](://github.com/sadekbaroudi/vik#keyboard-sample-cards). Read more about what VIK standard does to the custom keyboard with custom pointing devices like trackballs, trackpads,etc in Sadek's VIK standard in his [GitHub](://github.com/sadekbaroudi/vik#keyboard-sample-cards).
+#This DragonFruit keyboard is VIK certified as per Sadek of Fingerpunch's [VIK standard](://github.com/sadekbaroudi/vik#keyboard-sample-cards). Read more about what VIK standard does to the custom keyboard with custom pointing devices like trackballs, trackpads,etc in Sadek's VIK standard in his [GitHub](://github.com/sadekbaroudi/vik#keyboard-sample-cards).
 
 | Category                 | Classification          | Response           |
 | -----------------------  | ----------------------- | ------------------ |
