@@ -8,7 +8,7 @@ Best of all, all 5 PCBs assembled are all working and top notch soldering.  Thei
 
 ## VIK Certification
 
-This DragonFruit keyboard is VIK certified as per Sadek of Fingerpunch's [VIK standard](://github.com/sadekbaroudi/vik#keyboard-sample-cards). Read more about what VIK standard does to the custom keyboard with custom pointing devices like trackballs, trackpads,etc in Sadek's VIK standard in his [GitHub](://github.com/sadekbaroudi/vik#keyboard-sample-cards).
+This DragonFruit keyboard is VIK certified   per Sadek of Fingerpunch's [VIK standard](://github.com/sadekbaroudi/vik#keyboard-sample-cards). Read more about what VIK standard does to the custom keyboard with custom pointing devices like trackballs, trackpads,etc in Sadek's VIK standard in his [GitHub](://github.com/sadekbaroudi/vik#keyboard-sample-cards).
 
 | Category                 | Classification          | Response           |
 | -----------------------  | ----------------------- | ------------------ |
