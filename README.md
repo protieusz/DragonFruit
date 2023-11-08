@@ -6,7 +6,9 @@ This project is sponsored and made possible by:
 Your one stop solution for PCB printing / PCBA service.  Top notch customer service. Their sales department are able to do a quick test after PCBA by plugging into the PC to see if the RP2040 storage containers popped up.
 Best of all, all 5 PCBs assembled are all working and top notch soldering.  Their red silkscreen really pops out and matched with their yellow font silkscreen looks really nice. Thank you PCBWay!
 
-#This DragonFruit keyboard is VIK certified as per Sadek of Fingerpunch's [VIK standard](://github.com/sadekbaroudi/vik#keyboard-sample-cards). Read more about what VIK standard does to the custom keyboard with custom pointing devices like trackballs, trackpads,etc in Sadek's VIK standard in his [GitHub](://github.com/sadekbaroudi/vik#keyboard-sample-cards).
+## VIK Certification
+
+This DragonFruit keyboard is VIK certified as per Sadek of Fingerpunch's [VIK standard](://github.com/sadekbaroudi/vik#keyboard-sample-cards). Read more about what VIK standard does to the custom keyboard with custom pointing devices like trackballs, trackpads,etc in Sadek's VIK standard in his [GitHub](://github.com/sadekbaroudi/vik#keyboard-sample-cards).
 
 | Category                 | Classification          | Response           |
 | -----------------------  | ----------------------- | ------------------ |
@@ -32,7 +34,7 @@ Only the gerber files of the DragonFruit will be uploaded to this GitHub. THe PC
 
 QMK code is borrowed from Aki27's [Bally](https://github.com/aki27kbd/vial-qmk/tree/vial/keyboards/aki27/bally) is working very smoothly.  I also uploaded my compiled QMK firmware. Trackball QMK code requires the QMK version above 0.19 in order to successful compiled. No support will be given for the code. Please ask the original designer/owner for support since I only copied and pasted the QMK code.
 
-Update: Nov 7, 2023. Final Product.
+## Update: Nov 7, 2023. Final Product.
 
 ![IMG_0301](https://github.com/protieusz/DragonFruit/assets/118025702/1bbba0b1-df73-4067-8b93-f1636ab4fe97)
 ![IMG_0300](https://github.com/protieusz/DragonFruit/assets/118025702/513c643b-0166-4be9-9b51-d72a6865a979)
