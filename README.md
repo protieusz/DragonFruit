@@ -6,6 +6,20 @@ This project is sponsored and made possible by:
 Your one stop solution for PCB printing / PCBA service.  Top notch customer service. Their sales department are able to do a quick test after PCBA by plugging into the PC to see if the RP2040 storage containers popped up.
 Best of all, all 5 PCBs assembled are all working and top notch soldering.  Their red silkscreen really pops out and matched with their yellow font silkscreen looks really nice. Thank you PCBWay!
 
+This DragonFruit keyboard is VIK certified as per Sadek of Fingerpunch's [VIK standard](://github.com/sadekbaroudi/vik#keyboard-sample-cards). Read more about what VIK standard does to the custom keyboard with custom pointing devices like trackballs, trackpads,etc in Sadek's VIK standard in his [GitHub](://github.com/sadekbaroudi/vik#keyboard-sample-cards).
+
+| Category                 | Classification          | Response           |
+| -----------------------  | ----------------------- | ------------------ |
+| FPC connector            | Required                | :heavy_check_mark: |
+| Breakout pins            | Recommended             | :x:                |
+| Supplies: SPI            | Strongly recommended    | :heavy_check_mark: |
+| Supplies: I2C            | Strongly recommended    | :heavy_check_mark: |
+| I2C on main PCB          | Discouraged             | no                 |
+| I2C pull ups             | Informative             | N/A                |
+| Supplies: RGB            | Strongly recommended    | :heavy_check_mark: |
+| Supplies: Extra GPIO 1   | Required                | Digital only       |
+| Supplies: Extra GPIO 2   | Required                | Digital only       |
+
 PCB print plus assembly has been tested and working correctly.  However please print at your own risk and no support will be given.  As for the Kiwano module, please go to AriaMelon's GITHUB to get the pcb printed and assembled.  The trackball 3DP files are all located in her GITHUB.  You would need the [specific](https://github.com/Ariamelon/Kiwano/tree/main/3DP) ones for this build and they are:
 
 | Trackball 3DP Parts              | 
