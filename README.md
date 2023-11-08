@@ -1,6 +1,8 @@
 # DragonFruit
 Dragon Fruit, sponsored by [PCBWay](https://www.pcbway.com), a heavily modifed from AriaMelon's column staggered [Honey Dew](https://github.com/Ariamelon/Honeydew) powered by integrated RP2040 and Ariamelon's [Kiwano](https://github.com/Ariamelon/Kiwano) module.
 
+# The DragonFruit is featured on https://kbd.news/DragonFruit-2178.html
+
 This project is sponsored and made possible by:
 ![PCBWay](https://github.com/protieusz/DragonFruit/assets/118025702/c41f5eb2-1fd3-4f8a-9159-31855fbcfc03)
 Your one stop solution for PCB printing / PCBA service.  Top notch customer service. Their sales department are able to do a quick test after PCBA by plugging into the PC to see if the RP2040 storage containers popped up.
