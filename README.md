@@ -35,6 +35,10 @@ Only the gerber files of the DragonFruit will be uploaded to this GitHub. THe PC
 
 QMK code is borrowed from Aki27's [Bally](https://github.com/aki27kbd/vial-qmk/tree/vial/keyboards/aki27/bally) is working very smoothly.  I also uploaded my compiled QMK firmware. Trackball QMK code requires the QMK version above 0.19 in order to successful compiled. No support will be given for the code. Please ask the original designer/owner for support since I only copied and pasted the QMK code.
 
+## Update: Nov 22, 2023. Keycap change.
+
+![IMG_0427](https://github.com/protieusz/DragonFruit/assets/118025702/59f352b3-2b67-489e-a9a1-175afd981fc0)
+
 ## Update: Nov 7, 2023. Final Product.
 
 ![IMG_0301](https://github.com/protieusz/DragonFruit/assets/118025702/1bbba0b1-df73-4067-8b93-f1636ab4fe97)
